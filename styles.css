@@ -1,0 +1,198 @@
+*{
+margin:0;
+padding:0;
+}
+ 
+ 
+/* wrapper */
+.wrapper{
+margin: 0 auto;
+padding: 200px 0;
+width: 700px;
+}
+
+/* Container 1 */
+ 
+#container-1{
+	background-color: #903c0c;
+	text-align: right;
+}
+ 
+#container-1 h1{
+	font: 800 46px/60px 'Abhaya Libre', serif;
+	color: #d75912;
+	margin-top: 20px; 
+	margin-bottom: 2px;
+	border-top: 5px solid #e9c366; 
+	padding-top: 20px; 
+}
+ 
+#container-1 h2{
+	font: 800 27px/34px 'Abhaya Libre', serif;
+	color: #000000;
+	margin-bottom: 25px; 
+}
+ 
+#container-1 p{
+	font: 400 16px/22px 'Abhaya Libre', serif;
+	color: #000000;
+	margin-bottom: 20px; 
+	
+}
+
+#container-1 p:hover{
+	color: #e9c366;
+}
+ 
+#container-1 a{
+	color: #ec6416; 
+	text-decoration: none; 
+	font-size: 18px; 
+}
+
+
+ #container-1 a:hover{
+ 	color: #000000; 
+ 	text-decoration: none;
+ 	border-bottom: 3px solid #000000; 
+ 	padding-bottom: 1px;  
+}
+
+/* Container 2 */
+ 
+ #container-2{
+ 	background: url(http://kosmetikbericht.de/wp-content/uploads/2015/03/Herbst.jpg);
+ 	background-size: cover;
+ 	background-position: center;
+ 	opacity:0.9; /* allgemein */
+   -moz-opacity:0.9; 
+   text-align: left;
+ 
+} 
+ 
+ #container-2 h1{
+ 	font: 900 29px/42px 'Merriweather', serif;
+ 	color: #900c1e; 
+ 	text-transform: uppercase;
+ 	letter-spacing: 1px; 
+}
+ 
+ #container-2 h2{
+ 	font: 700 italic 23px/38px 'Merriweather', serif;
+ 	color: #900c1e; 
+ 	text-align: left;
+ 	margin-top: -8px;  
+ }
+ 
+ #container-2 p{
+ 	font: 400 18px/18px 'Libre Baskerville', serif;
+ 	font-weight: bolder; 
+ 	color: #000000; 
+ 	margin-top: 60px; 
+ 	letter-spacing: 1px; 
+}
+ 
+
+ #container-2 a{
+ 	text-decoration: none;
+ 	color: #900c1e;
+ 	border: 1px solid #900c1e;
+}
+ 
+
+/* Container 3 */
+
+ #container-3{
+ 	background-color: #e0e7e7;
+ 	text-align: center; 
+ }
+
+ #box{
+ 	background-color: #f14cae; 
+ 	border-radius: 10px; 
+ 	box-shadow: 10px 10px 5px #888888;
+ 	padding: 40px 25px 25px 10px;
+ }
+
+ #container-3 h1{
+ 	font: 400 46px/32px 'Lobster', cursive;
+ 	color: #fff;
+ 	margin-bottom: 15px; 
+
+ }
+
+ #container-3 h2{
+ 	font: 400 36px/35px 'Cookie', cursive;
+ 	color: #fff;
+ 	margin-bottom: 20px; 
+ }
+ 
+
+ #container-3 p{
+ 	font: 400 21px/23px 'Cookie', cursive;
+ 	margin: 0 15px 10px 15px;
+ }
+
+ #container-3 a{
+ 	font-family: 'Lobster';
+ 	font-size: 15px;
+ 	color: #fff;
+ 	text-decoration: none; 
+ }
+
+ #container-3 a:hover{
+ 	background: #e0e7e7;
+ 	color: #000000; 
+ }
+
+/*container-4*/
+
+#container-4{
+	background: #ffa500;
+	border:	12px solid #005aff;
+	text-align: left; 
+
+}
+
+#container-4:hover{
+	background: #b5c5c5;
+	border: 12px solid #ec008c;
+}
+
+#container-4 h1{
+	font: 400 italic 48px/48px 'Libre Baskerville', serif;
+	color: #eef2f2;
+	margin-bottom: 25px;
+	margin-left: -30px;
+}
+
+#container-4 h2{
+	font: 700 26px/28px 'Libre Baskerville', serif;
+	color: #005aff;
+	text-align: right;
+	margin-bottom: 40px;
+}
+
+#container-4 p{
+	font: 400 18px/20px 'Libre Baskerville', serif;
+	color: #181f1f; 
+	text-align: right;
+	margin-right: -40px; 
+	letter-spacing: 1px;
+	border-left: 5px solid #005aff;
+	padding-left: 10px;
+
+}
+
+#container-4 a{
+	font: 400 15px/18px 'Libre Baskerville', serif;
+	color: #005aff; 
+	text-decoration: none;
+	border-bottom: 1px solid #005aff; 
+	padding-bottom: 2px; 
+}
+
+
+
+
+
